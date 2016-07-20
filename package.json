@@ -1,0 +1,22 @@
+{
+	"name": "theme-obsidian-snake",
+	"displayName": "Obsidian Snake",
+	"description": "Theme based on the Obsidian color scheme",
+	"version": "0.0.1",
+	"publisher": "Superzadeh",
+	"engines": {
+		"vscode": "^0.10.10"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Obsidian Snake",
+				"uiTheme": "vs-dark",
+				"path": "./themes/GrandsonOfObsidian.tmTheme"
+			}
+		]
+	}
+}
